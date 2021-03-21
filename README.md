@@ -37,12 +37,20 @@ Total rides were also higher in urban cities, compared to suburban and rural cit
 
 ## Fig. 2
 
+![Fig5.PNG](analysis/Fig5.png)
+
+## FIG. 3
+
+![Fig6.PNG](analysis/Fig6.png)
+
+## FIG. 4
+
 ![Fig7.PNG](analysis/Fig7.png)
 
 
 ## Summary
 
-More analysis should be done. Although several sheets  of data were provided with a lot information, important details were left out (e.g., length of rides, gas prices).The lack of information possibly skewed the results of the analysis. The length of the rides and  price of gas should have been included in the data in order to assess or determine the company's ride-sharing service affordability. 
+More analysis should be done. Although several sheets  of data were provided with a lot information, important details were left out (e.g., length of rides, gas prices). The lack of information possibly skewed the results of the analysis. The length of the rides and  price of gas should have been included in the data in order to assess or determine the company's ride-sharing service affordability. 
 
 
 
