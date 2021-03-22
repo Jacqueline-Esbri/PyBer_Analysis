@@ -27,7 +27,7 @@ The line chart created for this assignment showed a reasonable pattern in rural,
 
 Urban fares were slightly cheaper compared to suburban and rural fares. However, it had 2400 drivers compared to 625 for suburban, and 125 for rural. As a result, urban cities made more money ($39,854) in total fares compared to suburban cities ($19,356) and rural cities ($4,328), which fares were higher in price. 
 
-Total rides were also higher in urban cities, compared to suburban and rural cities. The observation shows that because there are more drivers and riders on urban cities, it drives the price of fares lower due to the competition. Rural fares are higher, possibly due to the of length of ride, which was not given, and lack of demand.
+Total rides were also higher in urban cities, compared to suburban and rural cities. The observation showed that because there were more drivers and riders in urban cities, it may have caused the price of fares to be lower, due to the competition. Rural fares were higher, possibly due to the of length of ride, which was not given, and lack of demand.
 
 
 
