@@ -7,7 +7,7 @@ The purpose of this mock assignment was to conduct an exploratory analysis for a
 
 Large files are extremely difficult to reveal complex findings through tables of thousands of rows––the result would not be informative or appealing. Because the analytical work required to be comprehensive and correct, Matplotlib was the suitable tool to produce line charts, pie charts and graphs on for ride-sharing data. 
 
-The Ultimate goal of the analysis was to create visualizations of the data (using Matplotlib) in order to detect patterns and correlations. The outcome of the analysis will enable the company's leaders to make strategic business decisions to improve access and affordability to their ride-sharing services. The following information was used to detect the findings:
+The Ultimate goal of the analysis was to create visualizations of the data (using Matplotlib) in order to detect patterns and correlations. The outcome of the analysis may enable the company's leaders to make strategic business decisions to improve access and affordability to their ride-sharing services. The following are some of the examples used to detect the findings:
 
 - Types of cities
 - Total drivers and rides
@@ -18,7 +18,7 @@ The Ultimate goal of the analysis was to create visualizations of the data (usin
 
 ## Resources
 
-For this project, three CSV files were provided. The files contained data on cities' ride data and its types of cities (e.g., urban, suburban, rural.To analyze the data, Jupyter Notebook and Pandas was used to inspect the data, merge data sets, perform calculations, and create Data Series and Data Frames. Matplotlib, which is a favorite tool among data scientists and data analysts due its robust visualization features, was used to produce high quality publication figures to create the charts and graphs. 
+For this project, three CSV files were provided. The files contained data on cities' ride data and its types of cities (e.g., urban, suburban, rural). To analyze the data, Jupyter Notebook and Pandas was used to inspect the data, merge data sets, perform calculations, and create Data Series and Data Frames. Matplotlib, which is a favorite tool among data scientists and data analysts, due its robust visualization features, was used to produce high quality publication figures to create the charts and graphs. 
 
 
 ## Results
